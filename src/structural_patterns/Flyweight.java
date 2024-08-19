@@ -75,14 +75,14 @@ class Colonil extends WarSoldier {
 }
 
 //////////////// objects are done (those objects should e shared because a war
-//////////////// game could contain thousands of soldiers)
-/////////////// so here's the flyweight which manages those soldiers through
-//////////////// using an object pool
-////////////// object pool is considered a temporary caching of existent objects
-//////////////// until needed, could be implemented through
-///////////// any data structure like Map or even a list (array), preferably a
-//////////////// Map (Dictionary in C#)
-/////////// Let's get this done.
+////////////// game could contain thousands of soldiers)
+//////////// so here's the flyweight which manages those soldiers through
+////////// using an object pool
+/////// object pool is considered a temporary caching of existent objects
+////// until needed, could be implemented through
+///// any data structure like Map or even a list (array), preferably a
+//// Map (Dictionary in C#)
+/// Let's get this done.
 
 class WarEntityFlyweight {
 
