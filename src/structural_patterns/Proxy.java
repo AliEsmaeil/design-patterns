@@ -1,4 +1,3 @@
-package design_patterns.structural_patterns;
 
 interface AbstractPostManager {
     void showPosts();

@@ -1,4 +1,3 @@
-package design_patterns.structural_patterns;
 
 // facede pattern: defines a higher level interface to make a complex subsystem easy to use
 

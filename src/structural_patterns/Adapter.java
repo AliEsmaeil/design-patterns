@@ -1,4 +1,3 @@
-package design_patterns.structural_patterns;
 
 import java.util.HashMap;
 
